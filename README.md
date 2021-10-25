@@ -7,3 +7,8 @@ The two birds' genotypes are randomly mixed during the breeding process, with a 
 ## Genotypes
 The two primary genotypes that are passed down each generation are color and jump behavior. The jumping behavior is a list of x-positions that correlate with the indices of the global pipe array.
 This allows for when each pipe gets near specific x-positions, the bird will jump in response. 
+
+## Demo
+
+https://user-images.githubusercontent.com/81705278/138636179-42e25e63-fc09-414f-a18e-a84ab8966038.mp4
+
